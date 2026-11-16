@@ -13,6 +13,7 @@ on:
 permissions:
   contents: read
   pages: write
+  id-token: write
   # id-token: write отсутствует намеренно для инцидента
 
 concurrency:
